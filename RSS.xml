@@ -26,17 +26,16 @@
       <itunes:category text="Children's Books" />
     </itunes:category>
 
-    <!-- BEISPIEL FÜR EINE PODCAST-EPISODE -->
     <item>
-      <title>Episode 1: Mein erster Schultag</title>
+      <title>Folge 1 – Försters Pucki</title>
       <description>In dieser ersten Folge erzähle ich von den Erinnerungen an meinen ersten Schultag.</description>
       <pubDate>Mon, 15 Sep 2025 08:00:00 +0200</pubDate>
       
       <!-- Der Link zur eigentlichen Audio-Datei auf deinem Audio-Host -->
-      <enclosure url="https://dein-audio-host.de/episodes/folge1.mp3" length="15420000" type="audio/mpeg" />
+      <enclosure url="https://dein-audio-host.de/episodes/folge1.wav" length="15330000" type="audio/wav" />
       
       <guid isPermaLink="false">kindheitsgeschichten-ep-001</guid>
-      <itunes:duration>00:15:30</itunes:duration>
+      <itunes:duration>00:15:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
