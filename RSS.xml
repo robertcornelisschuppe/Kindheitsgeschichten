@@ -22,9 +22,9 @@
     </image>
 
     <!-- Podcast-Kategorie -->
-    <itunes:category text="Arts &amp; Books">
-      <itunes:category text="Children's Books" />
-    </itunes:category>
+     <itunes:category text="Arts">
+       <itunes:category text="Books" />
+     </itunes:category>
 
     <item>
       <title>Folge 1 – Försters Pucki</title>
