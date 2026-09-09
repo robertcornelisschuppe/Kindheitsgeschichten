@@ -22,16 +22,17 @@
     </image>
 
     <!-- Podcast-Kategorie -->
-     <itunes:category text="Arts">
-       <itunes:category text="Books" />
-     </itunes:category>
+    <itunes:category text="Arts">
+      <itunes:category text="Books" />
+    </itunes:category>
 
+    <!-- Episode 1 -->
     <item>
       <title>Folge 1 – Försters Pucki</title>
       <description>Ein Kinderbuch aus der Zeit des Nationalsozialismus, das sich bis heute großer Beliebtheit erfreut – was steckt dahinter? In dieser Folge beschäftigen wir uns mit Magda Trotts Pucki-Reihe und fragen, wie sich das Rollenbild des Nationalsozialismus darin widerspiegelt und was dafür sorgt, dass diese trotzdem über Jahrzehnte hinweg ein begeistertes Publikum gefunden hat.</description>
       <pubDate>Mon, 15 Sep 2025 08:00:00 +0200</pubDate>
       
-      <!-- Der Link zur eigentlichen Audio-Datei auf deinem Audio-Host -->
+      <!-- Der Link zur eigentlichen Audio-Datei auf GitHub Pages -->
       <enclosure url="https://robertcornelisschuppe.github.io/Kindheitsgeschichten/1_Foersters_Pucki.mp3" length="15330000" type="audio/mpeg" />
       
       <guid isPermaLink="false">kindheitsgeschichten-ep-001</guid>
