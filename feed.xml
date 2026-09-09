@@ -26,18 +26,41 @@
       <itunes:category text="Books" />
     </itunes:category>
 
-    <!-- Episode 1 -->
+    <!-- Folge 1 -->
     <item>
       <title>Folge 1 – Försters Pucki</title>
       <link>https://www.slub-dresden.de/besuchen/ausstellungen-buchmuseum/archiv-der-ausstellungen/ausstellungen-2026/von-hans-huckebein-bis-conni-kinder-und-jugendliteratur-im-wandel-der-zeiten#c75744</link>
-      <description>Ein Kinderbuch aus der Zeit des Nationalsozialismus, das sich bis heute großer Beliebtheit erfreut – was steckt dahinter? In dieser Folge beschäftigen wir uns mit Magda Trotts Pucki-Reihe und fragen, wie sich das Rollenbild des Nationalsozialismus darin widerspiegelt und was dafür sorgt, dass diese trotzdem über Jahrzehnte hinweg ein begeistertes Publikum gefunden hat.</description>
-      <pubDate>Mon, 15 Sep 2025 08:00:00 +0200</pubDate>
+      <description>
+          <p>Besucht uns zur Ausstellung <a href="https://www.slub-dresden.de/besuchen/ausstellungen-buchmuseum/archiv-der-ausstellungen/ausstellungen-2026/von-hans-huckebein-bis-conni-kinder-und-jugendliteratur-im-wandel-der-zeiten">Von Hans Huckebein bis Conni: Kinder- und Jugendliteratur im Wandel der Zeiten</a>⁠⁠⁠⁠ in der SLUB Dresden!</p>
+          <p>Ein Kinderbuch aus der Zeit des Nationalsozialismus, das sich bis heute großer Beliebtheit erfreut – was steckt dahinter? In dieser Folge beschäftigen wir uns mit Magda Trotts Pucki-Reihe und fragen, wie sich das Rollenbild des Nationalsozialismus darin widerspiegelt und was dafür sorgt, dass diese trotzdem über Jahrzehnte hinweg ein begeistertes Publikum gefunden hat.</p>
+          <p>Musik: Bring Me Home von ⁠Scott Gratton⁠ ist unter einer ⁠Attribution-NonCommercial License⁠ lizensiert.</p>
+      </description>
+      <pubDate>Mon, 09 Sep 2025 16:00:00 +0200</pubDate>
       
       <!-- Der Link zur eigentlichen Audio-Datei auf GitHub Pages -->
       <enclosure url="https://robertcornelisschuppe.github.io/Kindheitsgeschichten/1_Foersters_Pucki.mp3" length="15330000" type="audio/mpeg" />
       
       <guid isPermaLink="false">kindheitsgeschichten-ep-001</guid>
       <itunes:duration>00:15:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+     <!-- Folge 2 -->
+    <item>
+      <title>Folge 2 – Die Regentrude</title>
+      <link>https://www.slub-dresden.de/besuchen/ausstellungen-buchmuseum/archiv-der-ausstellungen/ausstellungen-2026/von-hans-huckebein-bis-conni-kinder-und-jugendliteratur-im-wandel-der-zeiten#c75745</link>
+      <description>
+          <p>Besucht uns zur Ausstellung <a href="https://www.slub-dresden.de/besuchen/ausstellungen-buchmuseum/archiv-der-ausstellungen/ausstellungen-2026/von-hans-huckebein-bis-conni-kinder-und-jugendliteratur-im-wandel-der-zeiten">Von Hans Huckebein bis Conni: Kinder- und Jugendliteratur im Wandel der Zeiten</a>⁠⁠⁠⁠ in der SLUB Dresden!</p>
+          <p>Kinder denken oft bildlich. Fantastische Kinderliteratur ermöglicht es, abstrakte Themen wie die Beziehung vom Menschen zur Natur plastisch darzustellen. Mit Theodor Storms „Die Regentrude“ sprechen wir in dieser Folge über einen frühen Klassiker, der auf diese Weise thematisiert, wie die Umwelt zunehmend vernachlässigt wird – und das bereits im 19. Jahrhundert.</p>
+          <p>Musik: Bring Me Home von ⁠Scott Gratton⁠ ist unter einer ⁠Attribution-NonCommercial License⁠ lizensiert.</p>
+      </description>
+      <pubDate>Mon, 09 Sep 2025 16:00:00 +0200</pubDate>
+      
+      <!-- Der Link zur eigentlichen Audio-Datei auf GitHub Pages -->
+      <enclosure url="https://robertcornelisschuppe.github.io/Kindheitsgeschichten/Folge_2_Regentrude.mp3" length="14560000" type="audio/mpeg" />
+      
+      <guid isPermaLink="false">kindheitsgeschichten-ep-002</guid>
+      <itunes:duration>00:14:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
