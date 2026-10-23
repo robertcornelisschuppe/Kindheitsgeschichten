@@ -68,5 +68,25 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+     <!-- Folge 3 -->
+    <item>
+      <title>Folge 3 – Pippi Langstrumpf</title>
+         <description>
+               <p>Rote, zu zwei Zöpfen geflochtene Haare, ein wildes Lächeln, ein Affe und ein Pferd. Pippi Langstrumpf ist eine Ikone der Kinderliteratur und verkörpert Freiheit wie kein anderer Charakter ihrer Zeit. 1945 brachte Astrid Lindgren Pippi das erste Mal zu Papier und mit ihr eine Verkörperung des "freien Kindes", das auch 80 Jahre später noch durch Kinderzimmer auf der ganzen Welt tollt.  In dieser Folge beschäftigen wir uns mit einem unangepassten Mädchen, das neu definierte, was Kinderliteratur sein kann.</p>
+               <p>Besucht uns zur Ausstellung <a href="https://www.slub-dresden.de/besuchen/ausstellungen-buchmuseum/archiv-der-ausstellungen/ausstellungen-2026/von-hans-huckebein-bis-conni-kinder-und-jugendliteratur-im-wandel-der-zeiten">Von Hans Huckebein bis Conni: Kinder- und Jugendliteratur im Wandel der Zeiten</a>⁠⁠⁠⁠ in der SLUB Dresden!</p>
+               <p>Moderation: Cindy Sager</p>
+               <p>Sprecher: Robert C. Schuppe</p>
+                <p>Musik: Bring Me Home von ⁠Scott Gratton⁠ ist unter einer ⁠Attribution-NonCommercial License⁠ lizensiert.</p>
+         </description>
+      <pubDate>Fri, 23 Sep 2025 12:30:00 +0100</pubDate>
+      
+      <!-- Der Link zur eigentlichen Audio-Datei auf GitHub Pages -->
+      <enclosure url="https://robertcornelisschuppe.github.io/Kindheitsgeschichten/Folge_3_Pippi_Langstrumpf.mp3" length="13260000" type="audio/mpeg" />
+      
+      <guid isPermaLink="false">kindheitsgeschichten-ep-003</guid>
+      <itunes:duration>00:13:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
