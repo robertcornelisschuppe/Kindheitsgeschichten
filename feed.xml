@@ -88,5 +88,26 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+     <!-- Folge 4 -->
+    <item>
+      <title>Folge 4 – Lütt Matten und die weiße Muschel</title>
+         <description>
+               <p>Dürfen Jungen Gefühle zeigen? Lange Zeit suggerierte die Kinderliteratur, die Antwort hierauf sei "nein". Jungen wurden im 19. und frühen 20. Jahrhundert vorwiegend als mutig, kämpferisch oder sogar draufgängerisch dargestellt. "Lütt Matten und die weiße Muschel" aus dem Jahre 1963 stellt eine andere Art von Figur in den Mittelpunkt: Einen kleinen Jungen, der Sorgen hat, aber von den Erwachsenen in diesen Sorgen nicht ernst genommen wird.</p>
+               <p>Besucht uns zur Ausstellung <a href="https://www.slub-dresden.de/besuchen/ausstellungen-buchmuseum/archiv-der-ausstellungen/ausstellungen-2026/von-hans-huckebein-bis-conni-kinder-und-jugendliteratur-im-wandel-der-zeiten">Von Hans Huckebein bis Conni: Kinder- und Jugendliteratur im Wandel der Zeiten</a>⁠⁠⁠⁠ in der SLUB Dresden!</p>
+               <p>Moderation: Robert C. Schuppe</p>
+               <p>Sprecherin: Cindy Sager</p>
+               <p>Redaktion: Anne Lippert</p>
+                <p>Musik: Bring Me Home von ⁠Scott Gratton⁠ ist unter einer ⁠Attribution-NonCommercial License⁠ lizensiert.</p>
+         </description>
+      <pubDate>Wen, 11 Nov 2025 12:00:00 +0100</pubDate>
+      
+      <!-- Der Link zur eigentlichen Audio-Datei auf GitHub Pages -->
+      <enclosure url="https://robertcornelisschuppe.github.io/Kindheitsgeschichten/4_Lütt_Matten_und_die_weisse_Muschel.mp3" length="15370000" type="audio/mpeg" />
+      
+      <guid isPermaLink="false">kindheitsgeschichten-ep-004</guid>
+      <itunes:duration>00:15:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
